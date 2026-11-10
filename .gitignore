@@ -1,0 +1,17 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE configuration
+.idea/
+.vscode/
+
+# Local environment files
+.env
+
+# Pylint cache
+.pylint.d/
